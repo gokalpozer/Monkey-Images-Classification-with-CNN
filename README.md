@@ -1,1 +1,1 @@
-# Monkey-Images-Classification-with-ANN-and-CNN
+# Monkey-Images-Classification-with-CNN
